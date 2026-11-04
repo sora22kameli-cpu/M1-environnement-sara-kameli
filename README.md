@@ -1,8 +1,8 @@
 # Projet Open Science - M1 Environnement
 
 ## Étudiant
-Nom : LARBI
-Prenom : HIAM
+Nom : kameli
+Prenom : sara
 
 ## Formation
 Master 1 Environnement
@@ -17,3 +17,5 @@ Découverte du développement collaboratif, du versionnement et de la reproducti
 Analyse de données environnementales.
 ## Analyse environnementale
 Étude des facteurs écologiques et de l'impact environnemental.
+## Analyse des précipitations
+Suivi et étude des données pluviométriques de la région.
